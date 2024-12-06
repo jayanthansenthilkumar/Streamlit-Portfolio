@@ -46,6 +46,7 @@ def body2():
     a.markdown("* Telugu     - 80%")
     a.markdown("* Sourashtra - 40%")
     a.markdown("* Kannada    - 50%")
+    a.markdown("* Hindi      - 50%")
     a.markdown("* Japanese   - 25%")
     a.markdown("* English    - 80%")
 #Project Translator
