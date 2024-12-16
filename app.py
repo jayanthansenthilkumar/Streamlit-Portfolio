@@ -148,7 +148,7 @@ def body2():
     am.markdown("Vennaimalai,")
     am.markdown("Karur - 639006")
     pm.header("Social Profiles")
-    pm.markdown('''LinkedIn : [Jayanthan Senthilkumar](https://www.linkedin.com/in/jayanthan-s-%E3%82%B8%E3%83%A3%E3%83%A4%E3%83%B3%E3%82%BF%E3%83%B3-bba225259?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)''', unsafe_allow_html=True)
+    pm.markdown('''LinkedIn : [Jayanthan Senthilkumar](https://www.linkedin.com/jayanthan18)''', unsafe_allow_html=True)
     pm.markdown('''Mail Id : [jayanthansenthilkumar18@gmail.com](mailto:jayanthansenthilkumar18@gmail.com)''', unsafe_allow_html=True)
     pm.markdown('''Twitter : [jayanthan2004](https://twitter.com/jayanthan2004)''', unsafe_allow_html=True)
     pm.markdown('''Github : [jayanthansenthilkumar](https://github.com/jayanthansenthilkumar)''', unsafe_allow_html=True)
